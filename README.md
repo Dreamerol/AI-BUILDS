@@ -132,16 +132,6 @@ width="320" height="220">
 
 
 
-<br><br>
-
-
-
-
-
-
-
-
-
  
 
  <h2 align="center"> 
