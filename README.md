@@ -144,7 +144,7 @@
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
 width="320" height="220">
 </a>
-<br><b>𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦 𝗜𝗜</b>
+<br><b>𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</b>
 </td>
 
 <td align="center" width="360">
