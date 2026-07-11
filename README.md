@@ -63,6 +63,35 @@
 
 
 
+
+
+
+
+<br><br><br>
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank">
+
+<h1>
+🧠 𝐍𝐄𝐔𝐑𝐎𝐒𝐂𝐈𝐄𝐍𝐂𝐄 𝐒𝐍𝐍
+</h1>
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG" width="100%"/>
+
+</a>
+
+</div>
+
+
+
+
+
+
+
 <br><br><br>
 
 
