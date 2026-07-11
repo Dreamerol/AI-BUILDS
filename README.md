@@ -79,24 +79,32 @@
 <div align="center">
 
 
-<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank">
 
+<div align="center">
 
 <h1>
-  
+<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank" style="text-decoration:none;">
 🧠 𝐍𝐄𝐔𝐑𝐎𝐒𝐂𝐈𝐄𝐍𝐂𝐄 𝐒𝐍𝐍
-
+</a>
 </h1>
+
+
+</div>
 
 
 <br>
 
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG" width="100%"/>
+<div align="center">
+
+<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank">
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG" width="100%" alt="Neuroscience SNN"/>
 
 </a>
 
 </div>
+
 
 
 
