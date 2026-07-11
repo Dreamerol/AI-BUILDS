@@ -79,7 +79,7 @@
 
 <h1>
 <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank" style="text-decoration:none;">
-🧠 𝐍𝐄𝐔𝐑𝐎𝐒𝐂𝐈𝐄𝐍𝐂𝐄 𝐒𝐍𝐍
+🧠 𝗡𝗘𝗨𝗥𝗢𝗦𝗖𝗜𝗘𝗡𝗖𝗘 𝗦𝗡𝗡
 </a>
 </h1>
 
