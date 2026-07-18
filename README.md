@@ -16,18 +16,19 @@
 
 
 
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol">
   <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ai4.jpg"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20-%20AI.png"
     width="100%"
     alt="Mihaela Koseva Banner"
   />
 </a>
 
 </div>
+
+
 
 
 
