@@ -297,10 +297,12 @@ width="320" height="220">
 
 <div align="center">
 
-# 👁️ 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗩𝗜𝗦𝗜𝗢𝗡
+<h1>
+👁️ <a href="https://github.com/Dreamerol/COMPUTER-VISION" target="_blank" style="text-decoration:none;">𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗩𝗜𝗦𝗜𝗢𝗡</a>
+</h1>
+
 
 </div>
-
 
 
 
