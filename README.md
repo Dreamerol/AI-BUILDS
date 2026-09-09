@@ -167,8 +167,6 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 # ⚛️ <a href="https://github.com/Dreamerol/PORTFOLIO">𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗕𝗨𝗜𝗟𝗗𝗦</a>  
 
-# ∫ Data → Systems
-
 </div>
 
 
