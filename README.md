@@ -243,6 +243,9 @@ Integrated AI capabilities into software platforms through ML model development,
 
 
 
+
+
+
 <div align="center">
 
 <!-- ================= FEATURED ================= -->
@@ -315,7 +318,12 @@ width="320" height="220">
 
 
 
+
+
 <br>
+
+
+
 
 
 <div align="center">
