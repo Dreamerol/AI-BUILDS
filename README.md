@@ -154,7 +154,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 <br>
 
-
+<br>
 
 
 
@@ -214,7 +214,7 @@ Integrated AI capabilities into software platforms through ML model development,
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 
@@ -379,7 +379,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 
@@ -434,7 +434,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 
@@ -455,6 +455,8 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 <br><br><br>
+
+<br>
 
 
 
@@ -486,6 +488,8 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 <br><br><br>
+
+<br>
 
 
 
