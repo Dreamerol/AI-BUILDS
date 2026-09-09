@@ -144,8 +144,21 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+<div align="center">
+
+# ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗕𝗨𝗜𝗟𝗗𝗦
+
+</div>
 
 
+
+
+
+<br>
+
+<br>
+
+<br>
 
 
 
@@ -154,7 +167,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 <div align="center">
 
-# ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗕𝗨𝗜𝗟𝗗𝗦
+# 👁️ 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗩𝗜𝗦𝗜𝗢𝗡
 
 </div>
 
