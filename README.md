@@ -254,96 +254,6 @@ width="320" height="220">
 
 
 
-<br><br><br><br><br><br>
-
-
-
-
-
-
-
-
-<div align="center">
-
-<h1>
-🧠 <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank" style="text-decoration:none;">𝗡𝗘𝗨𝗥𝗢𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>
-</h1>
-
-
-</div>
-
-
-
-
-
-<br>
-
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank">
-
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_NN3.jpg" width="100%" alt="Neuroscience SNN"/>
-
-</a>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br><br><br><br>
-
-
-
-
-
-
-
-
-
-
-
-<h2 align="center">⭐ Explore repos & star what you find interesting.</h2>
-
-
-
-
-<div align="center">
-
-<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
-
-Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning • Deep Learning • Computer Vision • Neural Networks • Data Science • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • REST APIs • MLOps • GitHub: Dreamerol
-
-</p>
-
-<p style="font-size:10px; opacity:0.7;">
-© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design.
-</p>
-
-<p style="font-size:10px; opacity:0.7;">
-🔗 Explore on GitHub:
-<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Software Engineer • AI • ML • Dreamerol</a>
-</p>
-
-</div>
-
-
-
-
 
 
 
@@ -417,10 +327,113 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
+
+
 <br><br><br><br><br><br>
 
 
 
+
+
+
+
+
+<div align="center">
+
+<h1>
+🧠 <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank" style="text-decoration:none;">𝗡𝗘𝗨𝗥𝗢𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>
+</h1>
+
+
+</div>
+
+
+
+
+
+<br>
+
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank">
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_NN3.jpg" width="100%" alt="Neuroscience SNN"/>
+
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 align="center">⭐ Explore repos & star what you find interesting.</h2>
+
+
+
+
+<div align="center">
+
+<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
+
+Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning • Deep Learning • Computer Vision • Neural Networks • Data Science • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • REST APIs • MLOps • GitHub: Dreamerol
+
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design.
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+🔗 Explore on GitHub:
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Software Engineer • AI • ML • Dreamerol</a>
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
 
 
 
