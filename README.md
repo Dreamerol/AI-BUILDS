@@ -462,6 +462,37 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
+
+
+
+<div align="center">
+
+<a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-PORTFOLIO.jpg"
+    width="100%"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia" />
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br><br><br>
 
 
