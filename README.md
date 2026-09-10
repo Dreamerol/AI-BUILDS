@@ -465,22 +465,6 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-<div align="center">
-
-<a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-PORTFOLIO.jpg"
-    width="100%"
-    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia" />
-</a>
-
-</div>
-
-
-
-
-
-
 
 
 
@@ -503,20 +487,19 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-
-
-
 <div align="center">
 
-<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
+<a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">
   <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-DREAMEROL.png"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-PORTFOLIO.jpg"
     width="100%"
-    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend, REST APIs, Python, C++, Java, SQL, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva, Михаела Косева, Git, GitHub: Dreamerol, github.com/Dreamerol, Neuroscience, Spiking Neural Networks, Neural Networks, Machine Learning"
-  />
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia" />
 </a>
 
-</div>  
+</div>
+
+
+
 
 
 
