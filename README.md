@@ -140,7 +140,7 @@
 
 <div align="center">
 
-# ⚛️ <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">𝗔𝗜 • 𝗕𝗨𝗜𝗟𝗗𝗦</a>  
+# ⚛️ <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">𝗔𝗜 𝗦𝗧𝗨𝗗𝗜𝗢</a>  
 
 # <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
 
