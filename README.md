@@ -326,7 +326,7 @@ width="320" height="220">
 
 <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank">
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG" width="100%" alt="Neuroscience SNN"/>
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN.webp" width="100%" alt="Neuroscience SNN"/>
 
 </a>
 
